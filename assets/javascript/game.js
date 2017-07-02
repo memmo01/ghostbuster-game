@@ -19,15 +19,15 @@ function imageNumValue(){
   return{
     ray:{
       points: Math.floor(Math.random()*10)+1,
-      image:"assets/images/ray.jpg"
+      image:"./assets/images/ray.jpg"
     },
     egon:{
       points: Math.floor(Math.random()*10)+1,
-      image:"assets/images/egon.jpg"
+      image:"./assets/images/egon.jpg"
     },
     winston:{
       points:Math.floor(Math.random()*10)+1,
-      image:"assets/images/winston.jpg"
+      image:"./assets/images/winston.jpg"
     },
     peter:{
       points:Math.floor(Math.random()*10)+1,
