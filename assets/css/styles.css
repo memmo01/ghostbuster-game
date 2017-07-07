@@ -1,6 +1,6 @@
 body{
     
-    background-image: url("./assets/images/ghostbackground.jpg");
+    background-image: url("../images/ghostbackground.jpg");
    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
