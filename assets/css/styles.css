@@ -1,8 +1,10 @@
 body{
     
-    background-image: url("./images/ghostbackground.jpg");
-    background-size: 100% 100%;
+    background-image: url("../images/ghostbackground.jpg");
+   background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
   }
   .contain{
     height:290px;
